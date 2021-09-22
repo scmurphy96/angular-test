@@ -1,0 +1,19 @@
+{
+  "applications": [
+    {
+      "id": "1",
+      "name": "finder",
+      "platform": "mac"
+    },
+    {
+      "id": "2",
+      "name": "files",
+      "platform": "windows"
+    },
+    {
+      "id": "3",
+      "name": "unix",
+      "platform": "linux"
+    }
+  ]
+}
